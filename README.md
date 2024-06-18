@@ -25,8 +25,7 @@ Spoznali bomo:
 4.	ura: Upravljanje matričnega zaslona z igralno palico
 
 ## Dodatne možnosti
-V ustvarjalnici se lahko pridružite tudi tečaju 3D-tiska. Kombinacija znanja Arduina in 3D-tiska je idealna za izdelavo lastnih izdelkov, saj lahko sami napišete program, sestavite vezje in natisnete ohišje za vaš projekt. 
-Tečaj omogoča tudi nadaljnje delo z kompleti, ki jih bomo uporabljali, tako da lahko z pridobljenim znanjem ustvarite nekaj po vaši želji. Na voljo bodo za izposojo v knjižnici stvari!
+V Ustvarjalnici se lahko pridružite tudi tečaju 3D-tiska. Kombinacija znanja Arduina in 3D-tiska je idealna za izdelavo lastnih izdelkov, saj lahko sami napišete program, sestavite vezje in natisnete ohišje za vaš projekt. Tečaj omogoča tudi nadaljnje delo s kompleti, ki jih bomo uporabljali, tako da lahko z pridobljenim znanjem ustvarite nekaj po vaši želji. Na voljo bodo za izposojo v knjižnici stvari!
 
 ## Komu je tečaj namenjen?
 Namenjen je **vsem** članom knjižnice ki jih zanima elektronika in programiranje, saj **predhodno znanje ni potrebno!**
