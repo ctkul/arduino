@@ -6,17 +6,17 @@ Arduino je platforma, ki omogoča enostavno izdelavo elektronike s pomočjo prep
 
 ## Zakaj Arduino?
 Arduino zna upravljati različne senzorje in druge elektronske elemente, kar omogoča njegovo uporabo za:
-•	Avtomatizacijo gospodinjstva
-•	Robotske projekte
-•	Umetniške inštalacije
-•	Sestavljanje prototipov
+-	Avtomatizacijo gospodinjstva
+-	Robotske projekte
+-	Umetniške inštalacije
+-	Sestavljanje prototipov
 
 ## Kaj bomo počeli?
 Spoznali bomo:
-•	Osnove elektrotehnike in elektronskih komponent
-•	Osnove programskega jezika C++
-•	Ploščico Arduino in njene funkcionalnosti
-•	Senzorje in druge komponente
+-	Osnove elektrotehnike in elektronskih komponent
+-	Osnove programskega jezika C++
+-	Ploščico Arduino in njene funkcionalnosti
+-	Senzorje in druge komponente
 
 ## Program tečaja (traja 4 ure)
 1.	ura: Osnove elektronskih komponent, uvod v C++
