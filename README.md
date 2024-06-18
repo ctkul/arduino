@@ -1,6 +1,7 @@
 # Od ideje do prototipa: Arduino delavnica za začetnike
 Naučili se boste osnov programiranja in uporabe elektronskih komponent z Arduinom, kar vam bo omogočilo izdelavo lastnih pametnih naprav in interaktivnih projektov.
-Kaj je Arduino? 
+
+## Kaj je Arduino? 
 Arduino je platforma, ki omogoča enostavno izdelavo elektronike s pomočjo preprostega programiranja in strojne opreme. Sestavljen je iz mikrokrmilne ploščice (kot je Arduino UNO) in razvojnega okolja za pisanje in nalaganje kode na ploščico. Idealen je za začetnike zaradi svoje uporabniške prijaznosti.
 
 ## Zakaj Arduino?
@@ -28,6 +29,6 @@ V ustvarjalnici se lahko pridružite tudi tečaju 3D-tiska. Kombinacija znanja A
 Tečaj omogoča tudi nadaljnje delo z kompleti, ki jih bomo uporabljali, tako da lahko z pridobljenim znanjem ustvarite nekaj po vaši želji. Na voljo bodo za izposojo v knjižnici stvari!
 
 ## Komu je tečaj namenjen?
-Namenjen je vsem članom knjižnice ki jih zanima elektronika in programiranje, saj predhodno znanje ni potrebno!
+Namenjen je **vsem** članom knjižnice ki jih zanima elektronika in programiranje, saj **predhodno znanje ni potrebno!**
 
 Število udeležencev je omejeno na 5, zato so obvezne predhodne prijave na ustvarjalnica@ctk.uni-lj.si 
