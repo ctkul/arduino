@@ -31,4 +31,4 @@ Tečaj omogoča tudi nadaljnje delo z kompleti, ki jih bomo uporabljali, tako da
 ## Komu je tečaj namenjen?
 Namenjen je **vsem** članom knjižnice ki jih zanima elektronika in programiranje, saj **predhodno znanje ni potrebno!**
 
-Število udeležencev je omejeno na 5, zato so obvezne predhodne prijave na ustvarjalnica@ctk.uni-lj.si 
+Število udeležencev je omejeno na **5**, zato so obvezne predhodne prijave na <ustvarjalnica@ctk.uni-lj.si>. 
