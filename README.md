@@ -18,7 +18,7 @@ Spoznali bomo:
 -	Ploščico Arduino in njene funkcionalnosti
 -	Senzorje in druge komponente
 
-## Program tečaja (traja 4 ure)
+## Program tečaja
 1.	ura: Osnove elektronskih komponent, uvod v C++
 2.	ura: Nadaljevanje osnov in prvi »mini« projekt
 3.	ura: Vremenska postaja
